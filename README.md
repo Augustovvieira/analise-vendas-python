@@ -84,4 +84,4 @@ Augusto V. Vieira
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em Análise de Dados e Tecnologia.
 
-# 🔗 GitHub: github.com/Augustovvieira
+# 🔗 GitHub: Augustovvieira
