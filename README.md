@@ -26,8 +26,8 @@ A análise utiliza uma base de dados fictícia contendo informações sobre prod
 
 analise-vendas-python/ <br> 
 │<br> 
-├── dados/<br> 
-│   <br> └── vendas.csv <br> 
+├── dados/ <br> 
+│    └── vendas.csv <br> 
 │<br> 
 ├── analise_vendas.ipynb <br> 
 │<br> 
