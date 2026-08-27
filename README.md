@@ -25,7 +25,7 @@ A análise utiliza uma base de dados fictícia contendo informações sobre prod
 # 📂 Estrutura do projeto
 
 analise-vendas-python/ <br> 
-│
+│<br> 
 ├── dados/ <br> 
 │    └── vendas.csv <br> 
 │<br> 
